@@ -1,0 +1,18 @@
+1.  Installation
+    npm install react-router-dom@6
+
+2.  Configuring Routes
+3.  Navigation
+4.  Reading URL Parameters
+5.  Nested Routes
+    - Route Nesting
+    - Outlet
+6.  Index Routes
+7.  Relative Links
+8.  "Not Found" Routes
+9.  Descendant <Routes>
+
+
+-----------------------------------------------
+route props
+<Route path="" element={<App/> index}
