@@ -6,7 +6,6 @@ function Dashboard() {
     return (
         <div>
             <PrivateHeader />
-            <h4>User List Page</h4>
             <div>
                 <Link to={constant.component.addUser.url}>Add New</Link>
                 <form method="GET" action={constant.component.searchUser.url} style={{ display: 'inline' }}>
